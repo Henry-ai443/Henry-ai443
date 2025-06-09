@@ -17,10 +17,10 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python, JavaScript, PHP, C, C++, HTML5, CSS3  
+Python, JavaScript, PHP,HTML5, CSS3, Java  
 
 **Frameworks & Libraries:**  
-Bootstrap, Django, Node.js (in progress), React (soon)  
+Bootstrap, Django + rest framework, Node.js , Reactjs , Reactp and laravel
 
 **Databases:**  
 MariaDB, MySQL, SQLite  
@@ -34,8 +34,7 @@ GitHub Actions, API Integration, Linux CLI, Docker (learning)
 ---
 
 ## 🎯 Goals
-
-- 📈 Become a full-stack developer by the end of this year  
+-Data structures and algorithms in six months 
 - 🛡️ Get certified in **ethical hacking & cybersecurity**  
 - 🧠 Dive deeper into **AI/ML** and contribute to open-source ML projects  
 - 🎓 Pursue a **Master’s in IT** and a **PhD in Computer Science**  
@@ -55,7 +54,7 @@ GitHub Actions, API Integration, Linux CLI, Docker (learning)
 ## 🤝 Let's Connect
 
 - 💬 Open to collaboration, mentorship, and side projects  
-- 📧 Reach me: [your.email@example.com]  
+- 📧 Reach me: [henrymaina2024@outlook.com]  
 - 🌐 Portfolio: *(Coming soon)*  
 - 📍 Location: Kenya  
 

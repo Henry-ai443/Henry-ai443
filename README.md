@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Eng Henry
 
-🎓 I'm a passionate **Software Engineering student** with a deep curiosity for how things work and a relentless drive to build solutions that make a difference.  
-💻 I specialize in **web development**, **IoT integration**, and **software architecture**, and I'm currently expanding my knowledge in **AI**, **cybersecurity**, and **cloud computing**.
+🎓 I'm a passionate **Software Engineer ** with a deep curiosity for how things work and a relentless drive to build solutions that make a difference.  
+💻 I specialize in **web development**, **AI and Machine learning**, and **software architecture**, and I'm currently expanding my knowledge in **AI**, **cybersecurity**, and **cloud computing**.
 
 ---
 
@@ -10,20 +10,19 @@
 - 🌍 Building scalable full-stack web apps with **HTML, CSS, Bootstrap, JavaScript, PHP, and MariaDB**  
 - 🧠 Learning **Django**, **Node.js**, and **Machine Learning with Python**  
 - 🧪 Exploring ethical hacking and cybersecurity fundamentals  
-- 🔗 Integrating **IoT** into real-world systems for smart agriculture and sustainability  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python, JavaScript, PHP,HTML5, CSS3, Java  
+Python, JavaScript, PHP,HTML5, CSS3, 
 
 **Frameworks & Libraries:**  
-Bootstrap, Django + rest framework, Node.js , Reactjs , Reactp and laravel
+Bootstrap, Django + rest framework, Node.js + express, Reactjs , Reactpy and laravel
 
 **Databases:**  
-MariaDB, MySQL, SQLite  
+MariaDB, MySQL, SQLite , MongoDb
 
 **Tools:**  
 Git, GitHub, VS Code, Postman, Linux (Kali), Composer, npm  
@@ -46,7 +45,6 @@ GitHub Actions, API Integration, Linux CLI, Docker (learning)
 
 - ✅ **Mkulima Digital** – A digital platform to revolutionize the food supply chain  
 - ✅ **Online voting system** with real-time results and admin dashboard  
-- ✅ **Bird showcasing site** using Bootstrap & PHP  
 - ♟️ Studying **chess** strategically to become a Grandmaster
 
 ---

@@ -10,7 +10,7 @@
 - 🌍 Building scalable full-stack web apps with **HTML, CSS, Bootstrap, JavaScript, PHP, and MariaDB**  
 - 🧠 Learning **Django**, **Node.js**, and **Machine Learning with Python**  
 - 🧪 Exploring ethical hacking and cybersecurity fundamentals  
-
+- Writing programs for fun 😀 
 ---
 
 ## 🛠️ Tech Stack

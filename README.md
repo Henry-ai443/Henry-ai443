@@ -46,6 +46,7 @@ GitHub Actions, API Integration, Linux CLI, Docker (learning)
 - ✅ **Mkulima Digital** – A digital platform to revolutionize the food supply chain  
 - ✅ **Online voting system** with real-time results and admin dashboard  
 - ♟️ Studying **chess** strategically to become a Grandmaster
+- Studying Data structures and algorithms.
 
 ---
 

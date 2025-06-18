@@ -44,7 +44,7 @@ GitHub Actions, API Integration, Linux CLI, Docker (learning)
 ## 🌱 I'm Currently Working On
 
 - ✅ **Mkulima Digital** – A digital platform to revolutionize the food supply chain  
-- ✅ **Online voting system** with real-time results and admin dashboard  
+- ✅ ** A notes app using Django**
 - ♟️ Studying **chess** strategically to become a Grandmaster
 - 📚Studying Data structures and algorithms.
 

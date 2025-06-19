@@ -11,6 +11,8 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight)
 
+![Commit Activity](https://activity-graph.herokuapp.com/graph?username=HenryX&theme=github)
+
 ## 🎓 About Me
 
 I'm a passionate **Software Engineer** with a deep curiosity for how things work and a relentless drive to build solutions that matter.  

@@ -94,3 +94,5 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryX&layout=compact&theme=tokyonight)
+> 

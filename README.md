@@ -9,7 +9,7 @@
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-ai443&show_icons=true&theme=tokyonight)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HenryX&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight)
 
 ## 🎓 About Me
 

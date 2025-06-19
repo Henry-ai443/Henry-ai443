@@ -3,6 +3,9 @@
 [![](https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blue)]() [![](https://img.shields.io/badge/Location-Kenya-green)]() [![](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen)]()  
 [![](https://img.shields.io/badge/Email-henrymaina2024@outlook.com-blueviolet)]()
 
+## 🧠 Top Languages I Use
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&langs_count=5&theme=tokyonight&hide_title=true)
 ---
 
 ## 🎓 About Me
@@ -93,6 +96,4 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryX&layout=compact&theme=tokyonight)
-> 
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House"

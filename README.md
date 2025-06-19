@@ -8,6 +8,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&theme=tokyonight&hide=html,css,php,c,c++,java,typescript,scss,shell,go,ruby,rust,swift,kotlin,objective-c)
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-ai443&show_icons=true&theme=tokyonight)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HenryX&theme=tokyonight)
+
 ## 🎓 About Me
 
 I'm a passionate **Software Engineer** with a deep curiosity for how things work and a relentless drive to build solutions that matter.  

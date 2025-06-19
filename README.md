@@ -53,7 +53,11 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 **Databases:**  
-`MariaDB` · `MySQL` · `SQLite` · `MongoDB`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Platforms:**  
 `Git` · `GitHub` · `VS Code` · `Postman` · `Linux (Kali)` · `Composer` · `npm` · `Docker (learning)`

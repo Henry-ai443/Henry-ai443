@@ -3,11 +3,9 @@
 [![](https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blue)]() [![](https://img.shields.io/badge/Location-Kenya-green)]() [![](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen)]()  
 [![](https://img.shields.io/badge/Email-henrymaina2024@outlook.com-blueviolet)]()
 
-
-
 ## 🧠 Top Languages I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryX&layout=compact&theme=tokyonight&hide=html,css,php)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryX&layout=compact&theme=tokyonight&hide=html,css,php,c,c++,java,typescript,scss,shell,go,ruby,rust,swift,kotlin,objective-c)
 ---
 
 ## 🎓 About Me

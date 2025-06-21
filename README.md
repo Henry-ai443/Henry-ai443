@@ -81,7 +81,7 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 - ♟️ Studying chess daily to become a **Grandmaster**  
 - 📘 Mastering **Data Structures & Algorithms**  
 - 📡 Exploring Docker, APIs, and cloud infrastructure (AWS/GCP)
-
+-ForumX **is a Django-powered discussion platform designed for students to collaborate, learn, and share ideas. Users can create virtual rooms around academic topics, invite peers to join, and contribute to meaningful conversations. Whether it's group study, project brainstorming, or topic revision, this platform helps students stay connected and engaged.**
 ---
 
 ## 🎯 Goals

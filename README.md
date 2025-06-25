@@ -100,7 +100,6 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 |--------|-------------|--------|
 | **[Mkulima Digital](#)** | Optimizing the food supply chain for farmers & retailers | HTML · CSS · JS · PHP · MariaDB |
 | **Notes App** | A Django-powered personal note-keeping app | Django · SQLite |
-| **Voting System** | Online secure voting with email alerts & admin panel | PHP · MariaDB · JS · Bootstrap |
 
 > More projects coming soon – including AI experiments, security tools, and SaaS apps!
 

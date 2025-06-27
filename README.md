@@ -5,7 +5,7 @@
 
 ## 🧠 Top Languages I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&theme=tokyonight&hide=html,css,php,c,c++,java,typescript,scss,shell,go,ruby,rust,swift,kotlin,objective-c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&theme=tokyonight&hide=php,c,java,typescript,scss,shell,go,ruby,rust,swift,kotlin,objective-c)
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-ai443&show_icons=true&theme=tokyonight)
 

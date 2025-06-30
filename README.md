@@ -100,6 +100,7 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 |--------|-------------|--------|
 
 | **Notes App** | A Django-powered personal note-keeping app | Django · SQLite |
+|  **StudyHub** | StudyHub is a Django-based web application that allows users to create and join topic-based discussion rooms where they can chat, share ideas, and collaborate in real-time.
 
 > More projects coming soon – including AI experiments, security tools, and SaaS apps!
 

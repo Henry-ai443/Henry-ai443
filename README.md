@@ -96,6 +96,43 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 - 🎓 Pursue a **Master’s in IT** and a **PhD in Computer Science**  
 - 🏢 Launch my tech startup: **NovaWorks**
 
+- ## 🎯 2025 Goals – Becoming a Fullstack Developer
+
+I'm currently on a 6-month backend development challenge with the goal of branding myself as a **Fullstack Developer** by the end of 2025. I'm focusing on mastering core backend technologies while building and deploying fullstack projects.
+
+### 🛠️ Backend Technologies I'm Studying:
+- 🌐 **Django** (MVT, Django REST Framework, Admin, Auth)
+- 🔥 **Flask** (Jinja2, Forms, APIs, SQLAlchemy)
+- ⚡ **FastAPI** (Async APIs, Pydantic, JWT Auth, Swagger Docs)
+- 🚀 **Node.js (Express)** (REST APIs, MongoDB, Middleware, JWT)
+- 🐘 **PHP** (CRUD with MariaDB, Sessions, Bootstrap integration)
+
+### 🎨 Frontend Stack:
+- ✅ HTML5, CSS3
+- ✅ Bootstrap 5
+- ✅ JavaScript (DOM, fetch, async/await)
+- ✅ React (Components, State, Hooks)
+
+### 📁 Key Projects (in progress):
+- 🛒 Django E-commerce Platform
+- 📝 Flask Blog Application
+- 🌤️ FastAPI + React Weather App
+- 📋 MERN Stack Task Manager
+- 📊 PHP Inventory Management System
+
+### 📦 Deployment Targets:
+- GitHub (for source code)
+- Render, Vercel, or Netlify (for live demos)
+
+By the end of the year, I will have:
+- 🚀 4+ fullstack projects deployed
+- 💼 A personal portfolio website
+- 🧠 Mastery over multiple backend frameworks
+- 🧱 Strong frontend integration skills
+- 📢 A consistent GitHub and LinkedIn developer presence
+
+📌 *Follow my journey here on GitHub as I build in public and share updates regularly!*
+
 ---
 
 ## ✨ Featured Projects

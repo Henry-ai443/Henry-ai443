@@ -114,11 +114,11 @@ I'm currently on a 6-month backend development challenge with the goal of brandi
 - ✅ React (Components, State, Hooks)
 
 ### 📁 Key Projects (in progress):
-- 🛒 Django E-commerce Platform
+- 🛒 Django Wifi billing system 
 - 📝 Flask Blog Application
 - 🌤️ FastAPI + React Weather App
-- 📋 MERN Stack Task Manager
-- 📊 PHP Inventory Management System
+- 📋 MERN E-commerce site 
+- 📊 PHP Inventory Online voting System 
 
 ### 📦 Deployment Targets:
 - GitHub (for source code)

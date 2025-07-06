@@ -9,7 +9,6 @@
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-ai443&show_icons=true&theme=tokyonight)
 
-![Snake animation](https://github.com/Henry-ai443/Henry-ai443/blob/output/github-contribution-grid-snake.svg)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight)
 

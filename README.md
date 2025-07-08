@@ -97,7 +97,7 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 
 - ## 🎯 2025 Goals – Becoming a Fullstack Developer
 
-I'm currently on a 6-month backend development challenge with the goal of branding myself as a **Fullstack Developer** by the end of 2025. I'm focusing on mastering core backend technologies while building and deploying fullstack projects.
+I'm currently on a 9-month backend development challenge with the goal of branding myself as a **Fullstack Developer** by the end of 2025. I'm focusing on mastering core backend technologies while building and deploying fullstack projects.
 
 ### 🛠️ Backend Technologies I'm Studying:
 - 🌐 **Django** (MVT, Django REST Framework, Admin, Auth)
@@ -117,13 +117,13 @@ I'm currently on a 6-month backend development challenge with the goal of brandi
 - 📝 Flask Blog Application
 - 🌤️ FastAPI + React Weather App
 - 📋 MERN E-commerce site 
-- 📊 PHP Inventory Online voting System 
+- 📊 PHP Online voting System 
 
 ### 📦 Deployment Targets:
 - GitHub (for source code)
 - Render, Vercel, or Netlify (for live demos)
 
-By the end of the year, I will have:
+By the end of the 9 months I will have:
 - 🚀 4+ fullstack projects deployed
 - 💼 A personal portfolio website
 - 🧠 Mastery over multiple backend frameworks

@@ -13,7 +13,7 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Henry-ai443&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-![Profile views](https://komarev.com/ghpvc/?username=Henry-ai443&color=blue&style=plastic)
+
 ## 🎓 About Me
 
 I'm a passionate **Software Engineer** with a deep curiosity for how things work and a relentless drive to build solutions that matter.  

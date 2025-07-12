@@ -14,9 +14,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Henry-ai443&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Henry-ai443/snk/dist/github-snake-dark.svg?palette=github-dark)
 
 ## 🎓 About Me
 

@@ -12,8 +12,6 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Henry-ai443&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 🎓 About Me
 

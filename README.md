@@ -77,8 +77,6 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 ## 🌱 Currently Working On
 
 - ✅ **Mkulima Digital** – A platform to revolutionize the food supply chain in Kenya 🌾
-- ✅ **Notes App** – Built using Django & SQLite  
-- ♟️ Studying chess daily to become a **Grandmaster**  
 - 📘 Mastering **Data Structures & Algorithms**  
 - 📡 Exploring Docker, APIs, and cloud infrastructure (AWS/GCP)
 

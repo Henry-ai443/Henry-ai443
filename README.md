@@ -27,7 +27,7 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 
 - 🌐 Build full-stack web applications with **HTML, CSS, Bootstrap, JavaScript, PHP & MariaDB**
 - 🧠 Learn and experiment with **Django**, **Node.js**, **AI/ML**, and **Cybersecurity**
-- 🔐 Study ethical hacking and cybersecurity fundamentals on Kali Linux
+
 - 🧪 Write code for fun, curiosity, and impact
 
 ---

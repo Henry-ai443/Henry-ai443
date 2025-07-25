@@ -80,6 +80,8 @@ My journey is fueled by creativity, code, and a love for continuous learning.
 - 📘 Mastering **Data Structures & Algorithms**  
 - 📡 Exploring Docker, APIs, and cloud infrastructure (AWS/GCP)
 
+- 📚 **StudyHub** - a plartform where students and everyone can join and discuss topics of interests
+
 ---
 
 ## 🎯 Goals

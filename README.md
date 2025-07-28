@@ -18,7 +18,7 @@
 I'm a passionate **Software Engineer** with a deep curiosity for how things work and a relentless drive to build solutions that matter.  
 My journey is fueled by creativity, code, and a love for continuous learning.  
 
-🔍 Exploring the world of **AI**, **Cybersecurity**, **Cloud Computing**, and **Advanced Web Development**  
+🔍 Exploring the world of **AI & ML**, **Cybersecurity**, **Cloud Computing**, and **Advanced Web Development**  
 💡 Problem-solver | Systems Thinker | Curious Builder
 
 ---

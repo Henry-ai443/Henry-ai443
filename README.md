@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eng. Henry 
+# 👋 Hi, I'm Eng. Henry Maina
 
 [![](https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blue)]() [![](https://img.shields.io/badge/Location-Kenya-green)]() [![](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen)]()  
 [![](https://img.shields.io/badge/Email-henrymaina2024@outlook.com-blueviolet)]()
@@ -19,7 +19,7 @@ I'm a passionate **Software Engineer** with a deep curiosity for how things work
 My journey is fueled by creativity, code, and a love for continuous learning.  
 
 🔍 Exploring the world of **AI & ML**, **Cybersecurity**, **Cloud Computing**, and **Advanced Web Development**  
-💡 Problem-solver | Systems Thinker | Curious Builder
+💡 Problem-solver | Systems Thinker | Curious Builder | innovative Engineer 
 
 ---
 

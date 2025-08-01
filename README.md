@@ -15,13 +15,6 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight)
 
-## 📈 Profile Summary Cards
-
-![Stats](./profile-summary-card-output/default/0-profile-details.svg)
-![Top Lang by Commit](./profile-summary-card-output/default/1-repos-per-language.svg)
-![Top Lang by Repo](./profile-summary-card-output/default/2-most-commit-language.svg)
-![Commits UTC+8](./profile-summary-card-output/default/3-commit-per-hour.svg)
-![Days](./profile-summary-card-output/default/4-commit-per-day.svg)
 
 ## 🎓 About Me
 

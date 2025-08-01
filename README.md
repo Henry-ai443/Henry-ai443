@@ -7,7 +7,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&theme=tokyonight&hide=php,c,java,typescript,scss,shell,go,ruby,rust,swift,kotlin,objective-c)
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henry-ai443&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Henry-ai443&show_icons=true&theme=default)
+
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&langs_count=10&theme=default)
 
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight)

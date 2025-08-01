@@ -15,14 +15,29 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight)
 
+## 👋 About Me
 
-## 🎓 About Me
+Hi there! I'm **Eng. Henry**, a passionate and curious software engineer on a mission to build impactful, scalable, and intelligent solutions that make a difference. 💡
 
-I'm a passionate **Software Engineer** with a deep curiosity for how things work and a relentless drive to build solutions that matter.  
-My journey is fueled by creativity, code, and a love for continuous learning.  
+🔭 Currently diving deep into:
+- 🌐 Full-stack web development (PHP, JavaScript, Bootstrap)
+- 🐍 Python for AI, machine learning & automation
+- 📱 IoT and smart agriculture (Mkulima Digital 🌾)
+- 💻 Ethical hacking & cybersecurity fundamentals
 
-🔍 Exploring the world of **AI & ML**, **Cybersecurity**, **Cloud Computing**, and **Advanced Web Development**  
-💡 Problem-solver | Systems Thinker | Curious Builder | innovative Engineer 
+🚀 I'm always exploring new technologies, whether it's building voting systems, optimizing food supply chains, or creating powerful open-source tools.
+
+💡 I believe in **learning by building**, solving real-world problems through code, and sharing knowledge with the community.
+
+📈 Constantly improving through:
+- ✍️ Daily coding
+- 🔍 Open-source contributions
+- 🔐 Ethical hacking practice
+- ♟️ Chess for sharpening logic
+
+📫 Let's connect! Whether it’s to collaborate, brainstorm, or just talk tech — I’m always open.
+
+> _“Code with purpose. Learn with passion. Build for change.”_
 
 ---
 

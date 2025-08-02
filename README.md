@@ -37,7 +37,7 @@ Hi there! I'm **Eng. Henry**, a passionate and curious software engineer on a mi
 
 📫 Let's connect! Whether it’s to collaborate, brainstorm, or just talk tech — I’m always open.
 
-> _“Code with purpose. Learn with passion. Build for change.”_
+
 
 ---
 

@@ -167,7 +167,6 @@ By the end of the 9 months I will have:
 - 🎖️ Built multiple full-stack apps before turning 21  
 - 🧠 Self-taught in AI, cybersecurity, backend dev & ethical hacking  
 - 🥇 Consistently leveling up in chess, aiming for Master titles  
-- 💼 Founded **NovaWorks** – Tech startup in progress
 
 ---
 

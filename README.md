@@ -22,7 +22,7 @@ Hi there! I'm **Eng. Henry**, a passionate and curious software engineer on a mi
 🔭 Currently diving deep into:
 - 🌐 Full-stack web development (PHP, JavaScript, Bootstrap)
 - 🐍 Python for AI, machine learning & automation
-- 📱 IoT and smart agriculture (Mkulima Digital 🌾)
+
 - 💻 Ethical hacking & cybersecurity fundamentals
 
 🚀 I'm always exploring new technologies, whether it's building voting systems, optimizing food supply chains, or creating powerful open-source tools.

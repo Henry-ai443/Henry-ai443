@@ -154,7 +154,6 @@ By the end of the 9 months I will have:
 | Project | Description | Stack |
 |--------|-------------|--------|
 
-| **Notes App** | A Django-powered personal note-keeping app | Django · SQLite |
 
 
 

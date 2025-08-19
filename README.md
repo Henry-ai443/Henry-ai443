@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eng. Henry Maina
+# 👋 Hi, I'm Eng. Henry 
 
 [![](https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blue)]() [![](https://img.shields.io/badge/Location-Kenya-green)]() [![](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen)]()  
 [![](https://img.shields.io/badge/Email-henrymaina2024@outlook.com-blueviolet)]()

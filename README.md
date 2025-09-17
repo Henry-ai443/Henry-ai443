@@ -12,7 +12,7 @@
 
 
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Henry-ai443&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 👋 About Me
 

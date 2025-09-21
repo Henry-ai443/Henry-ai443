@@ -145,8 +145,6 @@ By the end of the 9 months I will have:
 - 🧱 Strong frontend integration skills
 - 📢 A consistent GitHub and LinkedIn developer presence
 
-📌 *Follow my journey here on GitHub as I build in public and share updates regularly!*
-
 ---
 
 ## ✨ Featured Projects

@@ -12,8 +12,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Henry-ai443&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ![Henry-ai443's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Henry-ai443&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Henry-ai443&theme=tokyonight&hide_border=true)

@@ -23,7 +23,7 @@ Hi there! I'm **Eng. Henry**, a passionate and curious software engineer on a mi
 - 🌐 Full-stack web development (PHP, JavaScript, Bootstrap)
 - 🐍 Python for AI, machine learning & automation
 
-- 💻 Ethical hacking & cybersecurity fundamentals
+
 
 🚀 I'm always exploring new technologies, whether it's building voting systems, optimizing food supply chains, or creating powerful open-source tools.
 
@@ -32,7 +32,6 @@ Hi there! I'm **Eng. Henry**, a passionate and curious software engineer on a mi
 📈 Constantly improving through:
 - ✍️ Daily coding
 - 🔍 Open-source contributions
-- 🔐 Ethical hacking practice
 - ♟️ Chess for sharpening logic
 
 📫 Let's connect! Whether it’s to collaborate, brainstorm, or just talk tech — I’m always open.
@@ -44,7 +43,7 @@ Hi there! I'm **Eng. Henry**, a passionate and curious software engineer on a mi
 ## 🚀 What I Do
 
 - 🌐 Build full-stack web applications with **HTML, CSS, Bootstrap, JavaScript, PHP & MariaDB**
-- 🧠 Learn and experiment with **Django**, **Node.js**, **AI/ML**, and **Cybersecurity**
+- 🧠 Learn and experiment with **Django**, **Node.js**, **AI/ML**
 
 - 🧪 Write code for fun, curiosity, and impact
 

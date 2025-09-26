@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Henry-ai443;Fullstack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ Eng Henry;Fullstack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blue)]() [![](https://img.shields.io/badge/Location-Kenya-green)]() [![](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen)]()  
 [![](https://img.shields.io/badge/Email-henrymaina2024@outlook.com-blueviolet)]()

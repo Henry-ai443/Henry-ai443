@@ -21,6 +21,9 @@
 
 [![Commits per 24 Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henry-ai443&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+## Frameworks I Use
+![Frameworks](https://img.shields.io/badge/Frameworks-React%20|%20Django%20|%20Bootstrap-dark?style=for-the-badge)
+
 ## 👋 About Me
 
 Hi there! I'm **Eng. Henry**, a passionate and curious software engineer on a mission to build impactful, scalable, and intelligent solutions that make a difference. 💡

@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I+am+Eng+Henry;Fullstack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech;Always+looking+forward+to+creating+scalable+solutions;LET'S+CREATE+YOUR+NEXT+BIG+PROJECT!)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blue)]() [![](https://img.shields.io/badge/Location-Kenya-green)]() [![](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen)]()  
-[![](https://img.shields.io/badge/Email-henrymaina2024@outlook.com-blueviolet)]()
+
 
 ## 🧠 Top Languages I Use!
 
@@ -24,9 +23,23 @@
 ## Frameworks I Use
 ![Frameworks](https://img.shields.io/badge/Frameworks-React%20|%20Django%20|%20Bootstrap-dark?style=for-the-badge)
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Hi there! I'm **Eng. Henry**, a passionate and curious software engineer on a mission to build impactful, scalable, and intelligent solutions that make a difference. 💡
+```java
+public class HenryX {
+
+    private String name = "HenryX";
+    private String role = "Software Engineering Student";
+    private String passion = "Building web apps, AI, and open-source tools";
+    private String goal = "To become a Computer Science PhD and Chess Grandmaster";
+
+    public void introduce() {
+        System.out.println("Hi, I'm " + name + "!");
+        System.out.println("I'm a " + role);
+        System.out.println("Passionate about " + passion);
+        System.out.println("My ultimate goal: " + goal);
+    }
+}
 
 🔭 Currently diving deep into:
 - 🌐 Full-stack web development (PHP, JavaScript, Bootstrap)

@@ -18,6 +18,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Henry-ai443&theme=dark&hide_border=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Henry-ai443&theme=dark&date_format=%5BY.%5Dn.j&mode=daily&currStreakLabel=DDDDDD&currStreakNum=DDDDDD&sideLabels=DDDDDD&currStreakAlign=center&exclude_days=Sun&card_width=500&card_height=200&locale=en&utcOffset=8)](https://git.io/streak-stats)
+
 ## 👋 About Me
 
 Hi there! I'm **Eng. Henry**, a passionate and curious software engineer on a mission to build impactful, scalable, and intelligent solutions that make a difference. 💡

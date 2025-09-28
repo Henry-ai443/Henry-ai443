@@ -16,9 +16,10 @@
 
 ![Henry-ai443's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Henry-ai443&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Henry-ai443&theme=dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Henry-ai443&theme=dark&date_format=%5BY.%5Dn.j&mode=daily&currStreakLabel=DDDDDD&currStreakNum=DDDDDD&sideLabels=DDDDDD&currStreakAlign=center&exclude_days=Sun&card_width=500&card_height=200&locale=en&utcOffset=8)](https://git.io/streak-stats)
+
+[![Commits per 24 Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henry-ai443&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 👋 About Me
 

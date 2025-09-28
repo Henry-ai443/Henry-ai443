@@ -6,7 +6,7 @@
 ## 🧠 Top Languages I Use!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&langs_count=30&layout=compact&theme=dark&include_forks=true)
 ---
-[![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henry-ai443&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Henry-ai443&show_icons=true&theme=default)

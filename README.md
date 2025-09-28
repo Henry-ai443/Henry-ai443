@@ -4,9 +4,10 @@
 [![](https://img.shields.io/badge/Email-henrymaina2024@outlook.com-blueviolet)]()
 
 ## 🧠 Top Languages I Use!
-| Top Languages by Commit | Top Languages by Repo Size |
-|--------------------------|----------------------------|
-| [![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henry-ai443&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+
+| [![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henry-ai443&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Henry-ai443&show_icons=true&theme=default)

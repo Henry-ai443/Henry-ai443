@@ -43,7 +43,7 @@ public class HenryX {
 
 🔭 Currently diving deep into:
 - 🌐 Full-stack web development (PHP, JavaScript, Bootstrap)
-- 🐍 Python for AI, machine learning & automation
+- ☁️ Cloud computing 
 
 
 
@@ -91,14 +91,15 @@ public class HenryX {
 - 📡 Exploring Docker, APIs, and cloud infrastructure (AWS/GCP)
 
 - 📚 **StudyHub** - a plartform where students and everyone can join and discuss topics of interests(DONE)
-- **COG PORTAL / WEBSITE** - A church website for my Church General conference Church Of God Seventh Day. In this website you should be abble to interact with every church facility.
+- **COG PORTAL / WEBSITE** - A church website for my Church General conference Church Of God Seventh Day. In this website you should be abble to interact with every church facility. (REACT + MYSQL + DRF)
+
+- **INSTAPAY ** - A payment gateway ( svelte)
 
 ---
 
 ## 🎯 Goals
 
 - 🚀 **Master Data Structures & Algorithms** in 6 months  
-- 🧠 Get certified in **Ethical Hacking & Cybersecurity**  
 - 🤖 Contribute to **Open Source AI/ML Projects**  
 - 🎓 Pursue a **Master’s in IT** and a **PhD in Computer Science**  
 - 🏢 Launch my tech startup: **NovaWorks**
@@ -111,7 +112,7 @@ I'm currently on a 9-month backend development challenge with the goal of brandi
 ## 🏆 Achievements
 
 - 🎖️ Built multiple full-stack apps before turning 21  
-- 🧠 Self-taught in AI, cybersecurity, backend dev & ethical hacking  
+- 🧠 Self-taught in AI, backend dev & frontend 
 - 🥇 Consistently leveling up in chess, aiming for Master titles  
 
 ---

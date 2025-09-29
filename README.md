@@ -28,18 +28,20 @@
 ```java
 public class HenryX {
 
-    private String name = "HenryX";
-    private String role = "Software Engineering Student";
+    private String name = "Eng Henry";
+    private String role = "Software Engineer";
     private String passion = "Building web apps, AI, and open-source tools";
-    private String goal = "To become a Computer Science PhD and Chess Grandmaster";
+    private String goal = "To become a Computer guru and above all a problem solver";
 
     public void introduce() {
         System.out.println("Hi, I'm " + name + "!");
         System.out.println("I'm a " + role);
-        System.out.println("Passionate about " + passion);
-        System.out.println("My ultimate goal: " + goal);
+        System.out.println("Passionate about " +  role);
+        System.out.println("My ultimate goal: " + goal .);
     }
 }
+```
+
 
 🔭 Currently diving deep into:
 - 🌐 Full-stack web development (PHP, JavaScript, Bootstrap)

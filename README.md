@@ -26,11 +26,11 @@
 ## 👨‍💻 About Me
 
 ```python
- class HenryX:
+ class EngHenry:
     def __init__(self):
         self.name = "Eng Henry"
         self.role = "Software Engineer"
-        self.passion = "Building web apps, AI, and open-source tools"
+        self.passion = "Building clean software solutions "
         self.goal = "To become a Computer guru and above all a problem solver"
 
     def introduce(self):

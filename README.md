@@ -44,18 +44,7 @@
 henry = HenryX()
 henry.introduce()
 ```
-## 🏆 Henry‑ai443’s Trophy Case
-
-| Icon | Achievement | Description |
-|---|---|---|
-| ▣ | **Legendary Commits** | Hit **1,000+ commits** on open source / personal repos |
-| ▣ | **Repo Maestro** | Created **10+ public repositories** |
-| ▣ | **Issue Slayer** | Closed **200+ issues / PRs** |
-| ▣ | **Code Explorer** | Contributed to **5+ different languages / tech stacks** |
-| ▣ | **CI/CD Champion** | Integrated **automated pipelines / tests** in projects |
-| ▣ | **Star Magnet** | Your repos collectively earned **500+ stars** |
-| ▣ | **Collaboration King** | Took part in **10+ collaborative / team projects** |
-| ▣ | **Docs Guru** | Wrote high‑quality README / docs for **all main projects** |
+![trophy](https://github-profile-trophy.vercel.app/?username=Henry-ai443&theme=onedark&row=1&column=6)
 
 
 
@@ -144,4 +133,6 @@ I'm currently on a 9-month backend development challenge with the goal of brandi
 
 ---
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House"
+##Random quotes
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+

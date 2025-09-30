@@ -25,21 +25,24 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class HenryX {
+```python
+ class HenryX:
+    def __init__(self):
+        self.name = "Eng Henry"
+        self.role = "Software Engineer"
+        self.passion = "Building web apps, AI, and open-source tools"
+        self.goal = "To become a Computer guru and above all a problem solver"
 
-    private String name = "Eng Henry";
-    private String role = "Software Engineer";
-    private String passion = "Building web apps, AI, and open-source tools";
-    private String goal = "To become a Computer guru and above all a problem solver";
+    def introduce(self):
+        print(f"Hi, I'm {self.name}!")
+        print(f"I'm a {self.role}")
+        print(f"Passionate about {self.passion}")
+        print(f"My ultimate goal: {self.goal}")
 
-    public void introduce() {
-        System.out.println("Hi, I'm " + name + "!");
-        System.out.println("I'm a " + role);
-        System.out.println("Passionate about " +  role);
-        System.out.println("My ultimate goal: " + goal .);
-    }
-}
+
+# Usage
+henry = HenryX()
+henry.introduce()
 ```
 
 

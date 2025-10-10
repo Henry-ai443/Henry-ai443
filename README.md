@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I+am+Eng+Henry;Fullstack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech;Always+looking+forward+to+creating+scalable+solutions;LET'S+CREATE+YOUR+NEXT+BIG+PROJECT; ALL ARE WELCOME FOR COLLBORATION)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I+am+Eng+Henry;Fullstack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech;Always+looking+forward+to+creating+scalable+solutions;LET'S+CREATE+YOUR+NEXT+BIG+PROJECT; ALL+ARE+WELCOME+FOR+COLLBORATION)](https://git.io/typing-svg)
 
 
 

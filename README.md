@@ -104,33 +104,6 @@ Here are some of the **projects I’ve built and deployed**. Each one reflects m
 
 ---
 
-**Dev Practices:**  
-`Version Control` · `API Integration` · `CLI Operations` · `CI/CD` (GitHub Actions)
-
-## 🌱 Currently Working On
-
-- ✅ **Mkulima Digital** – A platform to revolutionize the food supply chain in Kenya  -> Link mkulimadigital.vercel.app🌾
-- 📘 Mastering **Data Structures & Algorithms**  
-- 📡 Exploring Docker, APIs, and cloud infrastructure (AWS/GCP)
-
-- 📚 **StudyHub** - a plartform where students and everyone can join and discuss topics of interests(DONE)
-- **COG PORTAL / WEBSITE** - A church website for my Church General conference Church Of God Seventh Day. In this website you should be abble to interact with every church facility. (REACT + MYSQL + DRF) -> church-portal-frontend.vercel.app
-
-- **INSTAPAY ** - A payment gateway ( svelte)
-
----
-
-## 🎯 Goals
-
-- 🚀 **Master Data Structures & Algorithms** in 6 months  
-- 🤖 Contribute to **Open Source AI/ML Projects**  
-- 🎓 Pursue a **Master’s in IT** and a **PhD in Computer Science**  
-- 🏢 Launch my tech startup: **NovaWorks**
-
-- ## 🎯 2025 Goals – Becoming a Fullstack Developer
-
-I'm currently on a 9-month backend development challenge with the goal of branding myself as a **Fullstack Developer** by the end of 2025. I'm focusing on mastering core backend technologies while building and deploying fullstack projects.
----
 
 ## 🏆 Achievements
 

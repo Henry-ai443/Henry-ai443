@@ -52,12 +52,14 @@ henry.introduce()
 
 ## 🚀 Projects Showcase
 
-Here are some of the **projects I’ve built and deployed**. Each one reflects my passion for solving real-world problems through clean, scalable software. 💻  
+Here are some of the **projects I’ve built and deployed**. Each one reflects my passion for solving real-world problems through clean, scalable software. 
 
-| 🌟 Project | 📄 Description | 🧰 Tech Stack | 🔗 Live Demo |
-|-------------|----------------|---------------|---------------|
-| 🌾 **Mkulima Digital** | A digital platform transforming Kenya’s food supply chain — connecting farmers, processors, distributors, and retailers for sustainable market access. | PHP · Bootstrap · JavaScript · MariaDB | [🔗 Visit Mkulima Digital](https://mkulimadigital.vercel.app) |
-| ⛪ **Church Portal** | A fully interactive website for my church (Church of God Seventh Day) — integrates ministries, events, and member engagement. | React · Django REST · MySQL | [🔗 Visit Church Portal](https://church-portal-frontend.vercel.app) |
+## 🚀 Projects Showcase
+
+| 🧠 Project Name | 🧰 Tech Stack | 🔗 Live Demo |
+|-----------------|---------------|---------------|
+| 🌾 **Mkulima Digital** | Node.js · Bootstrap · JavaScript · MariaDB | [Visit Site](https://mkulimadigital.vercel.app) |
+| ⛪ **Church Portal** | React · Django REST · MySQL | [Visit Site](https://church-portal-frontend.vercel.app) |
 
 ---
 

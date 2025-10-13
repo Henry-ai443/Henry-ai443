@@ -96,12 +96,12 @@ henry.introduce()
 
 ## 🌱 Currently Working On
 
-- ✅ **Mkulima Digital** – A platform to revolutionize the food supply chain in Kenya 🌾
+- ✅ **Mkulima Digital** – A platform to revolutionize the food supply chain in Kenya  -> Link mkulimadigital.vercel.app🌾
 - 📘 Mastering **Data Structures & Algorithms**  
 - 📡 Exploring Docker, APIs, and cloud infrastructure (AWS/GCP)
 
 - 📚 **StudyHub** - a plartform where students and everyone can join and discuss topics of interests(DONE)
-- **COG PORTAL / WEBSITE** - A church website for my Church General conference Church Of God Seventh Day. In this website you should be abble to interact with every church facility. (REACT + MYSQL + DRF)
+- **COG PORTAL / WEBSITE** - A church website for my Church General conference Church Of God Seventh Day. In this website you should be abble to interact with every church facility. (REACT + MYSQL + DRF) -> church-portal-frontend.vercel.app
 
 - **INSTAPAY ** - A payment gateway ( svelte)
 

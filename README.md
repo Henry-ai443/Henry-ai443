@@ -118,7 +118,7 @@ Here are some of the **projects I’ve built and deployed**. Each one reflects m
 ## 🤝 Let’s Connect
 
 - 📧 Email: [henrymaina2024@outlook.com](mailto:henrymaina2024@outlook.com)  
-- 🌐 Portfolio: *Coming Soon*  
+- 🌐 Portfolio: [Visit Site](https://enghenryportfolio.vercel.app/)
 - 📍 Location: Kenya  
 - 🤝 Open to freelance, collaboration, mentorship, and hackathons
 

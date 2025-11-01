@@ -23,8 +23,14 @@
 
 [![Commits per 24 Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henry-ai443&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Frameworks I Use
-![Frameworks](https://img.shields.io/badge/Frameworks-React%20|%20Django%20|%20Bootstrap-dark?style=for-the-badge)
+### ⚙️ Tech Stack Progress
+
+![React](https://img.shields.io/badge/React-90%25-61DAFB?logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-85%25-0088CC?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-7952B3?logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-70%25-092E20?logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-65%25-A30000?logo=django&logoColor=white)
 
 ## 👨‍💻 About Me
 

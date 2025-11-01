@@ -25,12 +25,12 @@
 
 ### ⚙️ Tech Stack Progress
 
-![React](https://img.shields.io/badge/React-90%25-61DAFB?logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-85%25-0088CC?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-7952B3?logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/Django-70%25-092E20?logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-65%25-A30000?logo=django&logoColor=white)
+**React** ⚛️ ▰▰▰▰▰▰▰▰▰▱ 90%  
+**React Native** 📱 ▰▰▰▰▰▰▰▰▱▱ 85%  
+**Node.js** 🌿 ▰▰▰▰▰▰▰▱▱▱ 80%  
+**Bootstrap** 🎨 ▰▰▰▰▰▰▱▱▱▱ 70%  
+**Django** 🐍 ▰▰▰▱▱▱▱▱ 40%  
+**Django REST Framework (DRF)** 🔗 ▰▰▰▰▱▱▱▱▱▱ 75%
 
 ## 👨‍💻 About Me
 

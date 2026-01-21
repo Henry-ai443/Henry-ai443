@@ -75,8 +75,9 @@ Here are some of the **projects I’ve built and deployed**. Each one reflects m
 
 
 🔭 Currently diving deep into:
-- 🌐 Full-stack systems development
-- ☁️ Cloud computing 
+- 🌐 Full-stack systems engineering
+- ☁️ Cloud computing
+  
 
 
 

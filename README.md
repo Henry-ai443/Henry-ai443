@@ -20,7 +20,8 @@
 ![Henry-ai443's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Henry-ai443&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Henry-ai443&theme=dark&date_format=%5BY.%5Dn.j&mode=daily&currStreakLabel=DDDDDD&currStreakNum=DDDDDD&sideLabels=DDDDDD&currStreakAlign=center&exclude_days=Sun&card_width=500&card_height=200&locale=en&utcOffset=8)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight&hide_border=true)
+
 
 [![Commits per 24 Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henry-ai443&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -74,7 +75,7 @@ Here are some of the **projects I’ve built and deployed**. Each one reflects m
 
 
 🔭 Currently diving deep into:
-- 🌐 Full-stack web development (PHP, JavaScript, Bootstrap)
+- 🌐 Full-stack systems development
 - ☁️ Cloud computing 
 
 
@@ -96,29 +97,28 @@ Here are some of the **projects I’ve built and deployed**. Each one reflects m
 
 ## 🚀 What I Do
 
-- 🌐 Build full-stack web applications with **HTML, CSS, Bootstrap, JavaScript, PHP & MariaDB**
-- 🧠 Learn and experiment with **Django**, **Node.js**, **AI/ML**
+- 🌐 Build Computer softwares and systems
+- 🧠 Learn and experiment with the latest technologies in the market.
 
 - 🧪 Write code for fun, curiosity, and impact
 
 ---
 ## 🛠️ Tech Stack
-| **Category**              | **Technologies** |
-|----------------------------|------------------|
-| **Languages**              | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frameworks & Libraries** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)<br>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)<br>![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)<br>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)<br>![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) |
-| **Databases**              | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br>![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools & Platforms**      | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br>![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)<br>![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
-| **Operating Systems & Other Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)<br>![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
-
----
-
-
-## 🏆 Achievements
-
-- 🎖️ Built multiple full-stack apps before turning 21  
-- 🧠 Self-taught in AI, backend dev & frontend 
-- 🥇 Consistently leveling up in chess, aiming for Master titles  
+   <p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </marquee>
+</p>
 
 ---
 

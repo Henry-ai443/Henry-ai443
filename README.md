@@ -5,12 +5,13 @@
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight&hide_border=true)](https://github.com/Henry-ai443)
 
-| Top Languages by Size | Top Languages by Commit |
-|----------------------|-----------------------|
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&theme=dark&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henry-ai443&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact&theme=dark)](https://github.com/Henry-ai443)
 
 [![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henry-ai443&theme=github_dark)](https://github.com/Henry-ai443)
+
+[![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henry-ai443&theme=github_dark)](https://github.com/Henry-ai443)
 
 
 ## 📊 GitHub Stats
@@ -21,8 +22,7 @@
 
 ![Henry-ai443's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Henry-ai443&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight&hide_border=true)
+Streak](https://github-readme-streak-stats.herokuapp.com/?user=Henry-ai443&theme=tokyonight&hide_border=true)
 
 
 [![Commits per 24 Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henry-ai443&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

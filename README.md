@@ -23,6 +23,8 @@
 
 [![Commits per 24 Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henry-ai443&theme=github_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+https://github-profile-trophy.vercel.app/?username=Henry-ai443&theme=onedark&row=1&column=6&no-frame=true&no-bg=true
+
 ### ⚙️ Tech Stack Progress
 
 **React** ⚛️ ▰▰▰▰▰▰▰▰▰▱ 90%  
@@ -53,7 +55,7 @@
 henry = HenryX()
 henry.introduce()
 ```
-![trophy](https://github-profile-trophy.vercel.app/?username=Henry-ai443&theme=onedark&row=1&column=6)
+
 
 
 ## 🚀 Projects Showcase

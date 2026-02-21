@@ -5,6 +5,9 @@
 
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-ai443&layout=compact)
+
+
 
 [![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henry-ai443&theme=github_dark)](https://github.com/Henry-ai443)
 

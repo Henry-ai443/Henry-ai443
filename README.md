@@ -73,7 +73,7 @@ Here are some of the **projects I’ve built and deployed**. Each one reflects m
 
 ---
 
-💡 *More projects coming soon as I continue building innovative fullstack solutions and open-source tools.*
+💡 *For more projects visit my portfolio website at [Eng Henry](https://enghenryportfolio.vercel.app/)*
 
 
 🔭 Currently diving deep into:

@@ -1,4 +1,4 @@
-## 👋 Welcome to My Profile!
+ii## 👋 Welcome to My Profile!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FFFF&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Eng+Henry+%F0%9F%91%8B;Fullstack+Developer+%E2%9C%8C%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Tech+%F0%9F%94%8D;Building+Scalable+Solutions+%F0%9F%92%BB;Let's+Build+Your+Next+Big+Project+%F0%9F%9A%80;Open+to+Collaboration+%F0%9F%92%AA&delete=true&loop=true)](https://git.io/typing-svg)
 
@@ -103,7 +103,6 @@ Here are some of the **projects I’ve built and deployed**. Each one reflects m
 - 🌐 Build Computer softwares and systems
 - 🧠 Learn and experiment with the latest technologies in the market.
 
-- 🧪 Write code for fun, curiosity, and impact
 
 ---
 ## 🛠️ Tech Stack
@@ -134,6 +133,5 @@ Here are some of the **projects I’ve built and deployed**. Each one reflects m
 
 ---
 
-##Random quotes
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
